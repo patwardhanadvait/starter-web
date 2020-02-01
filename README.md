@@ -21,3 +21,4 @@ Contribution added
 
 ## COPYRIGHT
 copy right notice added
+more info added
