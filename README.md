@@ -18,3 +18,6 @@ Deployment added
 
 #How To Contribute
 Contribution added
+
+## COPYRIGHT
+copy right notice added
