@@ -22,3 +22,7 @@ Contribution added
 ## COPYRIGHT
 copy right notice added
 more info added
+
+## HOW To Continue
+Fork this repo.
+merge automatic
