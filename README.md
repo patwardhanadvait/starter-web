@@ -10,6 +10,11 @@ Intro added
 
 Sample website with plenty of files for demos
 Purpose added
+
 ## Deployment
+Deployment added
+
+
 
 #How To Contribute
+Contribution added
