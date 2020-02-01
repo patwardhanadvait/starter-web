@@ -9,7 +9,7 @@ Intro added
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Purpose added
 ## Deployment
 
 #How To Contribute
