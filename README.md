@@ -23,6 +23,7 @@ Contribution added
 ## COPYRIGHT
 copy right notice added
 more info added
+All rights reserved
 
 ## HOW To Continue
 Fork this repo.
